@@ -5,7 +5,7 @@
 
 ## 忙しい人向けの概要
 活動内容は部誌の作成と販売、週１回の例会があるよ!\
-入りたい方,興味のある方ははページ下部のdiscordサーバーへ入るorツイッターDMもしくはリプを送る,下記のメールアドレスへの連絡,部室へ凸るのどれか\
+入りたい方,興味のある方ははページ下部の[discord](https://discord.gg/gj9aXgFTp5),[Lineオープンチャット](https://line.me/ti/g2/O2tQ-ged5dKgz9QLHtrT7eTOMa93BuZoyojyJg?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)へ入るor[ツイッター](https://twitter.com/yzmanken)DMもしくはリプを送る,下記の[メールアドレス](yamadai.manken777@gmail.com)への連絡,部室へ凸るのどれか\
 絵を書く人書かない人、マンガ読む人読まない人,どんな人でも大歓迎!!
 
 ## 漫研ついて
@@ -39,12 +39,16 @@ discordのを使用しOB・OGを交えてのメンバー間の交流を楽しむ
 ```
 
 ## 見学の方法
-見学や話などを直接聞いてみたい際は[discordサーバー](https://discord.gg/gj9aXgFTp5)へ入るか[ツイッター](https://twitter.com/yzmanken)においてDMまたはリプを送る,またはの[メール](yamadai.manken777@gmail.com)での連絡,`部室へのアポなし訪問`のなどのお好きな方法をお取りください。\
-discordのQRコード:
-![discordのQRコード](https://cdn.discordapp.com/attachments/661593028170874880/1084169489165320304/discord.png)
-TwitterのQRコード:
+見学や話などを直接聞いてみたい際は[Lineオープンチャット](https://line.me/ti/g2/O2tQ-ged5dKgz9QLHtrT7eTOMa93BuZoyojyJg?utm_source=invitation&utm_medium=link_copy&utm_campaign=default),[discordサーバー](https://discord.gg/gj9aXgFTp5)へ入るか[ツイッター](https://twitter.com/yzmanken)においてDMまたはリプを送る,またはの[メール](yamadai.manken777@gmail.com)での連絡,`部室へのアポなし訪問`のなどのお好きな方法をお取りください。\
+LineのオープンチャットのQRコード
+![Lineオープンチャット](https://cdn.discordapp.com/attachments/831773372030779422/1095299917246890014/lineQrCode.jpg)\
+discordのQRコード
+![discordのQRコード](https://cdn.discordapp.com/attachments/661593028170874880/1084169489165320304/discord.png)\
+TwitterのQRコード
 ![TwitterのQRコード](https://cdn.discordapp.com/attachments/661593028170874880/1084168661109067796/twitter.png)\
-メールアドレス:`yamadai.manken777[at]gmail.com` ← [at]を@に変えて入力してください
+メールアドレス:`yamadai.manken777[at]gmail.com` ← [at]を@に変えて入力してください\
+
+
 
 ## 加入の方法
 加入の際は部員名簿に名前を書いてもらうことにより完了となります。\
