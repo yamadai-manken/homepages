@@ -1,0 +1,11 @@
+.footerNav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  margin-top:10px;
+  width: 100%;         /* 横幅いっぱい */
+  background: transparent;   /* 背景色（透明にするならtransparent） */
+  border-top: 1px solid #ccc; /* 上に仕切り線 */
+  z-index: 100;        /* 他要素より前面に */
+}
+

@@ -1,0 +1,50 @@
+/* まずブラウザのデフォルト余白を殺す */
+html, body {
+  height: 100%;
+}
+body {
+  margin: 0;                 /* ← これ必須 */
+}
+
+/* Vite テンプレの余白を無効化（入ってたら） */
+#root {
+  margin: 0;
+  padding: 0;
+  max-width: none;
+}
+
+/* 見出しのデフォルト余白を消す（ヘッダーに入れるなら特に） */
+header h1, .header h1 {
+  margin: 0;
+}
+
+/* 参考：あなたの固定レイアウト */
+:root { --header-h: 56px; --footer-h: 50px; }
+
+.header {
+  position: fixed; top: 0; left: 0; right: 0;
+  height: var(--header-h);
+  display: flex; align-items: center; /* テキスト中央寄せ用 */
+  padding: 0 12px;                    /* 見出しの余白は padding で */
+  background: #202020;
+  z-index: 1000;
+}
+
+.footer {
+  position: fixed; bottom: 0; left: 0; right: 0;
+  height: calc(var(--footer-h) + env(safe-area-inset-bottom, 0px));
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+  background: #202020;
+  z-index: 1000;
+  border-top: 1px solid #e5e5e5;
+}
+
+.stage {
+  position: fixed; left: 0; right: 0;
+  top: var(--header-h);
+  bottom: calc(var(--footer-h) + env(safe-area-inset-bottom, 0px));
+  overflow: hidden;            /* 必要に応じて auto */
+  background: transparent;
+}
+.stage > * { width: 100%; height: 100%; }
+
